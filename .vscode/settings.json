@@ -1,0 +1,4 @@
+{
+    "eslint.enable": false,
+    "gitlens.codeLens.enabled":false    
+}
